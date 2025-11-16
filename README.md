@@ -1,6 +1,6 @@
 # KeyGoblin
 
-A comprehensive security auditing tool for detecting exposed API keys, tokens, and endpoints in web applications. This scanner performs deep inspection of client-side assets, network traffic, and runtime behavior to identify potential security vulnerabilities.
+A cli tool for detecting exposed API keys, tokens, and endpoints in web applications. This scanner performs deep inspection of client-side assets, network traffic, and runtime behavior to identify potential security vulnerabilities.
 
 ## Overview
 
