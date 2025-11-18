@@ -4,7 +4,7 @@ A CLI tool for detecting exposed API keys, tokens, and endpoints in web applicat
 
 Finds API keys and headers like this:
 
-https://pbs.twimg.com/media/G50aYwJaMAAmcQD?format=jpg&name=large<img width="1378" height="1498" alt="image" src="https://github.com/user-attachments/assets/8f98c481-794e-4699-a56a-9a98d3b9f2d6" />
+<img width="1378" height="1498" alt="image" src="https://github.com/user-attachments/assets/8f98c481-794e-4699-a56a-9a98d3b9f2d6" />
 
 Note: This is just for demonstration, that is a demo website with demo keys.
 
